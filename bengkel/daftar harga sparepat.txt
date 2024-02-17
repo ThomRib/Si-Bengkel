@@ -1,0 +1,8 @@
+Pasang kanvas Rem(25000)
+Ganti Ban Dalam(45000)
+Pasang Kaca Spion(50000)
+Ganti Spidometer(75000)
+Pasang Gir(100000)
+Ganti Oli(45000)
+Pasang Lampu(35000)
+Ganti Busi(25000)
