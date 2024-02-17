@@ -1,8 +1,8 @@
 # Si-Bengkel
 Aplikasi Sistem Informasi Bengkel
-- dibuat dengan menggunakan bahasa pemrograman vb.net versi 2010
+- dibuat dengan menggunakan bahasa pemrograman vb.net
 - database dengan mysql
-- crystal report versi 8
+- crystal report
 
 tersedia fitur
 - scan barcod
