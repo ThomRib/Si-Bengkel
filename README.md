@@ -8,6 +8,3 @@ tersedia fitur
 - scan barcod
 - laporan periodik
 - multi level user
-
-untuk pengaktivan semua fitur atau penambahan fitur anda bisa menghubungi saya
-- tomasyolan@gmail.com
